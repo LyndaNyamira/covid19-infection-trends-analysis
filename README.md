@@ -5,11 +5,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-**Python | Pandas | Scikit-learn | NetworkX | Data Visualisation**
-
 # COVID-19 Infection Trends Analysis
-
-**Python | Pandas | Scikit-learn | NetworkX | Data Visualisation**
 
 ## Project Overview
 
