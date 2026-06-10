@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-Data_Analysis-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Preparation-purple?logo=pandas)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Linear_Regression_%26_KMeans-orange?logo=scikitlearn)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph_Analytics-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+**Python | Pandas | Scikit-learn | NetworkX | Data Visualisation**
+
 # COVID-19 Infection Trends Analysis
 
 **Python | Pandas | Scikit-learn | NetworkX | Data Visualisation**
@@ -80,6 +89,20 @@ The project used visualisations to communicate findings clearly, including:
 - K-Means clustering identified clear low, moderate, and high infection periods.
 - Network analysis showed that neighbouring countries had related infection trends.
 
+## Key Results
+
+| Metric | Result |
+|----------|----------|
+| Dataset Records | 266 |
+| Countries Analysed | 195 |
+| Time Period | 2020–2023 |
+| Selected Country | United States |
+| Neighbouring Countries | Canada, Mexico, Belize, Bahamas |
+| Clustering Method | K-Means (K=3) |
+| Predictive Model | Linear Regression |
+| Graph Analytics | NetworkX Correlation Network |
+| Highest Infection Peak | January 2022 |
+
 ## Visualisations
 
 ### Selected Country Analysis
@@ -131,6 +154,19 @@ Based on the analysis, the following recommendations were made:
 - NetworkX
 - Geopy
 - Google Colab
+
+## Skills Demonstrated
+
+- Data Cleaning and Preparation
+- Time Series Analysis
+- Exploratory Data Analysis (EDA)
+- Linear Regression
+- K-Means Clustering
+- Graph Analytics
+- Data Visualisation
+- Policy Recommendation Development
+- Python Programming
+- Pandas Data Manipulation
 
 ## Repository Structure
 
